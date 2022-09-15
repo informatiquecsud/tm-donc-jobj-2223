@@ -1,7 +1,20 @@
 run
-# Programmation dynamique
+# Documentation du TM informatique 2022-2023 (Développement Web)
 
-## Installation
+## Installation des dépendances
+
+Dans ce projet, les dépendances sont gérées grâce à `poetry`. Il faut donc
+commencer par installer le gestionnaire de packages Python `poetry` avec 
+
+```{bash}
+curl -sSL https://install.python-poetry.org | python3 -
+```
+
+On peut ensuite installer les dépendances avec 
+
+```{bash}
+poetry install
+```
 
 
 
