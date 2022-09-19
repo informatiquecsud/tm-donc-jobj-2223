@@ -54,5 +54,5 @@ tmpdf:
 getpdf:
 	cp -f build/latex/$(TARGET).pdf .
 
-surge: html
+surge: clean html
 	surge build/html/ csudtm-inf-2223.surge.sh
