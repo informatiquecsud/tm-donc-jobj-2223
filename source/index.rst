@@ -11,6 +11,7 @@ TM Développement Web
     :maxdepth: 2
     :caption: Table des matières
 
+    introduction.rst
     git/main.rst
     devtools/main.rst
     webdev/main.rst
@@ -19,7 +20,6 @@ TM Développement Web
     
 
 ..
-    introduction.rst
     ..  toctree::
         :maxdepth: 2
         :caption: Table des matières

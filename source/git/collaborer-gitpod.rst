@@ -58,11 +58,20 @@ ensuite partager cette URL avec l'autre personne. Dès qu'elle l'aura collé dan
 son navigateur, elle aura accès au même workspace gitpod et elles pourront
 collaborer sur le projet en temps réel.
 
-..  figure:: figures/share-gipod-workspace.gif
-    :align: center
-    :width: 100%
+..  only::  html
 
-    Partager un workspace gitpod pour collaborer en temps réel sur un même dépôt.
+    ..  figure:: figures/share-gipod-workspace.gif
+        :align: center
+        :width: 100%
+
+        Partager un workspace gitpod pour collaborer en temps réel sur un même dépôt.
+
+..  only:: latex
+
+    ..  admonition:: Gif animé
+
+        Une animation GIF est disponible à l'adresse
+        http://csudtm-inf-2223.surge.sh/_images/share-gipod-workspace.gif
 
 Sauvegarder les modifications sur Github
 ########################################
