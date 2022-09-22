@@ -6,4 +6,5 @@ Framework VueJS
     :caption: Table des matières
 
     vue-introduction.rst
+    vue-todo-setup.rst
 
